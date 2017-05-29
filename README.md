@@ -13,6 +13,8 @@ Si siempre te pierdes tus series favoritas en Netflix, utilizando *Netflax Calen
 
 Pare ejecutar la aplicación es necesario tener instalados las siguientes librerías Python: *Celery, Dropbox, Tweepy, Google Calendar*, además de *RabbitMQ* u otro broker. El programa corre sobre **Python3**.
 
+Antes de esto, además deberemos de rellenar el fichero *credentials.py* con los tokens de acceso a la aplicacion tanto en *Google* como en *Dropbox*. Para mas información de como obtener estos tokens accede a los siguientes tutoriales. [*Dropbox*](https://blogs.dropbox.com/developers/2014/05/generate-an-access-token-for-your-own-account/), [*Google Calendar: Step 1*](https://developers.google.com/google-apps/calendar/quickstart/python)
+
 1. Ejecutar rabbitmq, para esto lazaremos el siguiente comando
 	```
 	sudo rabbitmq-server
