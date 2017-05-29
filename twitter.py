@@ -68,4 +68,4 @@ class MyStreamListener(tweepy.StreamListener):
 myStreamListener = MyStreamListener()
 myStream = tweepy.Stream(auth = api.auth, listener=myStreamListener)
 
-myStream.filter(follow=["868413986303336448"], async=True)
+myStream.filter(follow=["4891680879"], async=True)
