@@ -1,6 +1,6 @@
 # Netflax Calendar
 
-## Descripción
+![Netflax Calendar logo](http://i.imgur.com/E4wKn4j.png)
 
 Si siempre te pierdes tus series favoritas en Netflix, utilizando *Netflax Calendar* se actualizará tu calendario de Google cada vez que la cuenta ***@gallonetflix*** tuitee la fecha de salida de una nueva serie en dicha plataforma.
 
