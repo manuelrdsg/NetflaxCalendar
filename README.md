@@ -6,12 +6,12 @@ Si siempre te pierdes tus series favoritas en Netflix, utilizando *Netflax Calen
 
 ## Participantes
 
-- Manuel Rodríguez-Sanchez Guerra
-- Luis Gonzaga Rozo Bueno
+- [Manuel Rodríguez-Sanchez Guerra](https://github.com/manuelrdsg)
+- [Luis Gonzaga Rozo Bueno](https://github.com/luisrozo)
 
 ## Metodo de uso
 
-Pare ejecutar la aplicación es necesario tener instalados las siguientes librerías Python: *Celery, Dropbox, Tweepy, Google Calendar*, además de rabbitmq u otro broker. El programa corre sobre **Python3**.
+Pare ejecutar la aplicación es necesario tener instalados las siguientes librerías Python: *Celery, Dropbox, Tweepy, Google Calendar*, además de *RabbitMQ* u otro broker. El programa corre sobre **Python3**.
 
 1. Ejecutar rabbitmq, para esto lazaremos el siguiente comando
 	```
