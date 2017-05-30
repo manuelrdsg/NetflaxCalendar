@@ -22,7 +22,7 @@ Antes de esto, además deberemos de rellenar el fichero *credentials.py* con los
     
 2. Lanzar el worker de celery, para esto, estando situados en la carpeta raiz del proyecto ejecutaremos el siguiente comando
 	```
-	celery -A server woker --loglevel=info
+	celery -A server worker --loglevel=info
     ```
 
 3. Lanzar el steaming de twitter, para esto ejecutaremos el fichero python *twitter.py*
